@@ -1,0 +1,18 @@
+body {
+    display: flex;
+    flex-flow: row;
+    align-content: space-evenly;
+    align-items: center;
+    padding: 5em;
+}
+.texto1 {
+    width: 500px;
+    margin: 2em;
+}
+section {
+    width: 500px;
+    margin: 2em;
+}
+header img {
+    text-align: center;
+}
